@@ -1,0 +1,13 @@
+name: Aurum
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A Minecraft plugin with casino games and cosmetics.
+api-version: "1.21"
+commands:
+  casino:
+    description: Open the casino menu.
+    usage: /casino
+  cosmetics:
+    description: Open the cosmetics menu.
+    usage: /cosmetics
